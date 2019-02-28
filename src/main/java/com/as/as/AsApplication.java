@@ -7,7 +7,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 @SpringBootApplication
 @EnableEurekaServer
 public class AsApplication {
-    //这是eureka的server     tensquare的eureka服务器
+    //这是eureka的server     tensquare的eureka服务器  1
     public static void main(String[] args) {
         SpringApplication.run(AsApplication.class, args);
     }
